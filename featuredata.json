@@ -1,0 +1,2300 @@
+{
+    "objectIdFieldName": "OBJECTID",
+    "uniqueIdField": {
+        "name": "OBJECTID",
+        "isSystemMaintained": true
+    },
+    "globalIdFieldName": "",
+    "hasZ": false,
+    "hasM": false,
+    "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+    },
+    "fields": [
+        {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID",
+            "sqlType": "sqlTypeInteger",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "count",
+            "type": "esriFieldTypeInteger",
+            "alias": "count",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "LTEPccRsrp",
+            "type": "esriFieldTypeString",
+            "alias": "LTEPccRsrp",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null,
+            "length": 128
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1089150524
+            },
+            "geometry": {
+                "x": -83.91357421875,
+                "y": 41.50634765625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1578168774
+            },
+            "geometry": {
+                "x": -84.13330078125,
+                "y": 41.59423828125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1622814759
+            },
+            "geometry": {
+                "x": -83.91357421875,
+                "y": 41.11083984375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 225084869
+            },
+            "geometry": {
+                "x": -84.04541015625,
+                "y": 40.80322265625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1582752953
+            },
+            "geometry": {
+                "x": -83.29833984375,
+                "y": 40.71533203125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1446606495
+            },
+            "geometry": {
+                "x": -83.16650390625,
+                "y": 40.14404296875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 110649619
+            },
+            "geometry": {
+                "x": -83.38623046875,
+                "y": 40.23193359375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1080037703
+            },
+            "geometry": {
+                "x": -83.69384765625,
+                "y": 40.75927734375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1209563204
+            },
+            "geometry": {
+                "x": -84.30908203125,
+                "y": 40.67138671875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 31705337
+            },
+            "geometry": {
+                "x": -84.35302734375,
+                "y": 40.27587890625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 711992826
+            },
+            "geometry": {
+                "x": -83.73779296875,
+                "y": 40.01220703125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1256467527
+            },
+            "geometry": {
+                "x": -86.85791015625,
+                "y": 41.55029296875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 736131493
+            },
+            "geometry": {
+                "x": -85.01220703125,
+                "y": 40.58349609375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1500087465
+            },
+            "geometry": {
+                "x": -86.24267578125,
+                "y": 40.27587890625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 178498383
+            },
+            "geometry": {
+                "x": -86.94580078125,
+                "y": 40.75927734375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 589308192
+            },
+            "geometry": {
+                "x": -87.16552734375,
+                "y": 40.67138671875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2137329403
+            },
+            "geometry": {
+                "x": -86.68212890625,
+                "y": 40.36376953125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2010250750
+            },
+            "geometry": {
+                "x": -87.29736328125,
+                "y": 41.11083984375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 375762865
+            },
+            "geometry": {
+                "x": -87.47314453125,
+                "y": 41.11083984375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2119205759
+            },
+            "geometry": {
+                "x": -87.29736328125,
+                "y": 40.89111328125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1973639976
+            },
+            "geometry": {
+                "x": -88.39599609375,
+                "y": 41.24267578125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1359217874
+            },
+            "geometry": {
+                "x": -89.27490234375,
+                "y": 41.85791015625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1110641076
+            },
+            "geometry": {
+                "x": -89.01123046875,
+                "y": 41.77001953125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1848636668
+            },
+            "geometry": {
+                "x": -89.93408203125,
+                "y": 41.85791015625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1775689391
+            },
+            "geometry": {
+                "x": -88.61572265625,
+                "y": 41.28662109375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 730840068
+            },
+            "geometry": {
+                "x": -89.40673828125,
+                "y": 41.33056640625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1885233419
+            },
+            "geometry": {
+                "x": -89.53857421875,
+                "y": 41.24267578125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 984334352
+            },
+            "geometry": {
+                "x": -89.40673828125,
+                "y": 41.11083984375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1479599746
+            },
+            "geometry": {
+                "x": -88.04443359375,
+                "y": 40.58349609375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 564431995
+            },
+            "geometry": {
+                "x": -87.95654296875,
+                "y": 40.45166015625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 392632906
+            },
+            "geometry": {
+                "x": -88.48388671875,
+                "y": 40.36376953125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1388831192
+            },
+            "geometry": {
+                "x": -88.35205078125,
+                "y": 40.10009765625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 289122214
+            },
+            "geometry": {
+                "x": -88.92333984375,
+                "y": 40.71533203125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1608720778
+            },
+            "geometry": {
+                "x": -89.49462890625,
+                "y": 40.45166015625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1212934555
+            },
+            "geometry": {
+                "x": -89.53857421875,
+                "y": 40.05615234375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 967805114
+            },
+            "geometry": {
+                "x": -90.41748046875,
+                "y": 41.81396484375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1181031801
+            },
+            "geometry": {
+                "x": -90.59326171875,
+                "y": 40.84716796875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 728423776
+            },
+            "geometry": {
+                "x": -92.17529296875,
+                "y": 41.90185546875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1010592455
+            },
+            "geometry": {
+                "x": -91.60400390625,
+                "y": 40.93505859375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 482604400
+            },
+            "geometry": {
+                "x": -91.91162109375,
+                "y": 41.02294921875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1341459165
+            },
+            "geometry": {
+                "x": -92.52685546875,
+                "y": 41.41845703125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1673269905
+            },
+            "geometry": {
+                "x": -92.65869140625,
+                "y": 41.11083984375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1875401279
+            },
+            "geometry": {
+                "x": -92.57080078125,
+                "y": 40.84716796875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1574356565
+            },
+            "geometry": {
+                "x": -90.68115234375,
+                "y": 40.14404296875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1460232891
+            },
+            "geometry": {
+                "x": -92.35107421875,
+                "y": 40.67138671875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1061549336
+            },
+            "geometry": {
+                "x": -92.92236328125,
+                "y": 41.77001953125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1694463864
+            },
+            "geometry": {
+                "x": -93.80126953125,
+                "y": 41.98974609375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 809895933
+            },
+            "geometry": {
+                "x": -92.83447265625,
+                "y": 41.19873046875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1649427746
+            },
+            "geometry": {
+                "x": -93.58154296875,
+                "y": 40.84716796875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 282932987
+            },
+            "geometry": {
+                "x": -94.24072265625,
+                "y": 41.77001953125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1152329487
+            },
+            "geometry": {
+                "x": -94.94384765625,
+                "y": 41.90185546875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2045802046
+            },
+            "geometry": {
+                "x": -94.54833984375,
+                "y": 41.11083984375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 872222240
+            },
+            "geometry": {
+                "x": -94.50439453125,
+                "y": 41.06689453125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1346864612
+            },
+            "geometry": {
+                "x": -93.09814453125,
+                "y": 40.58349609375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 504637129
+            },
+            "geometry": {
+                "x": -93.66943359375,
+                "y": 40.67138671875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1784589016
+            },
+            "geometry": {
+                "x": -95.55908203125,
+                "y": 40.62744140625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1424527711
+            },
+            "geometry": {
+                "x": -95.77880859375,
+                "y": 41.72607421875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 981414385
+            },
+            "geometry": {
+                "x": -96.35009765625,
+                "y": 41.59423828125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 955983146
+            },
+            "geometry": {
+                "x": -96.56982421875,
+                "y": 41.37451171875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1469554935
+            },
+            "geometry": {
+                "x": -96.96533203125,
+                "y": 41.41845703125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1581936723
+            },
+            "geometry": {
+                "x": -96.83349609375,
+                "y": 41.28662109375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1787551657
+            },
+            "geometry": {
+                "x": -96.52587890625,
+                "y": 41.06689453125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1611433957
+            },
+            "geometry": {
+                "x": -96.78955078125,
+                "y": 41.11083984375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1593635315
+            },
+            "geometry": {
+                "x": -97.05322265625,
+                "y": 41.85791015625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1452326416
+            },
+            "geometry": {
+                "x": -97.22900390625,
+                "y": 41.68212890625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1945836387
+            },
+            "geometry": {
+                "x": -97.05322265625,
+                "y": 41.55029296875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 472131087
+            },
+            "geometry": {
+                "x": -97.53662109375,
+                "y": 41.81396484375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1003317849
+            },
+            "geometry": {
+                "x": -97.44873046875,
+                "y": 41.59423828125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1025989502
+            },
+            "geometry": {
+                "x": -97.31689453125,
+                "y": 40.89111328125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1388498516
+            },
+            "geometry": {
+                "x": -98.02001953125,
+                "y": 41.28662109375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1913677445
+            },
+            "geometry": {
+                "x": -96.87744140625,
+                "y": 40.45166015625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1740181966
+            },
+            "geometry": {
+                "x": -97.36083984375,
+                "y": 40.62744140625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 519572994
+            },
+            "geometry": {
+                "x": -97.80029296875,
+                "y": 40.53955078125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1050242747
+            },
+            "geometry": {
+                "x": -98.28369140625,
+                "y": 40.67138671875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1740813712
+            },
+            "geometry": {
+                "x": -98.89892578125,
+                "y": 41.68212890625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 465722887
+            },
+            "geometry": {
+                "x": -99.60205078125,
+                "y": 40.80322265625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2036706372
+            },
+            "geometry": {
+                "x": -100.08544921875,
+                "y": 41.37451171875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1223876852
+            },
+            "geometry": {
+                "x": -100.43701171875,
+                "y": 41.46240234375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1788327628
+            },
+            "geometry": {
+                "x": -100.43701171875,
+                "y": 41.37451171875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 66284293
+            },
+            "geometry": {
+                "x": -100.96435546875,
+                "y": 41.41845703125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1720338470
+            },
+            "geometry": {
+                "x": -99.03076171875,
+                "y": 40.62744140625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 507428672
+            },
+            "geometry": {
+                "x": -98.98681640625,
+                "y": 40.58349609375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1679341496
+            },
+            "geometry": {
+                "x": -98.45947265625,
+                "y": 40.27587890625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1080768662
+            },
+            "geometry": {
+                "x": -99.29443359375,
+                "y": 40.40771484375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1622652709
+            },
+            "geometry": {
+                "x": -100.30517578125,
+                "y": 40.58349609375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 68251409
+            },
+            "geometry": {
+                "x": -100.12939453125,
+                "y": 40.23193359375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1947590142
+            },
+            "geometry": {
+                "x": -100.92041015625,
+                "y": 40.45166015625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1415681252
+            },
+            "geometry": {
+                "x": -101.18408203125,
+                "y": 40.31982421875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 647854117
+            },
+            "geometry": {
+                "x": -102.28271484375,
+                "y": 41.59423828125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1353649492
+            },
+            "geometry": {
+                "x": -101.62353515625,
+                "y": 40.84716796875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 53626017
+            },
+            "geometry": {
+                "x": -103.07373046875,
+                "y": 41.50634765625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1106996348
+            },
+            "geometry": {
+                "x": -103.77685546875,
+                "y": 41.98974609375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2053900952
+            },
+            "geometry": {
+                "x": -103.60107421875,
+                "y": 41.50634765625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 53664878
+            },
+            "geometry": {
+                "x": -103.02978515625,
+                "y": 41.41845703125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2055575534
+            },
+            "geometry": {
+                "x": -103.60107421875,
+                "y": 40.84716796875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1307587635
+            },
+            "geometry": {
+                "x": -102.63427734375,
+                "y": 40.05615234375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2004012146
+            },
+            "geometry": {
+                "x": -103.29345703125,
+                "y": 40.18798828125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1856235456
+            },
+            "geometry": {
+                "x": -103.64501953125,
+                "y": 40.71533203125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 7013215
+            },
+            "geometry": {
+                "x": -103.42529296875,
+                "y": 40.49560546875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 337107973
+            },
+            "geometry": {
+                "x": -103.73291015625,
+                "y": 40.40771484375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 799267920
+            },
+            "geometry": {
+                "x": -103.95263671875,
+                "y": 40.05615234375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1290338115
+            },
+            "geometry": {
+                "x": -105.18310546875,
+                "y": 41.90185546875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1916786706
+            },
+            "geometry": {
+                "x": -105.18310546875,
+                "y": 41.59423828125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1479098543
+            },
+            "geometry": {
+                "x": -105.22705078125,
+                "y": 40.93505859375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 871513961
+            },
+            "geometry": {
+                "x": -106.63330078125,
+                "y": 41.02294921875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1542995524
+            },
+            "geometry": {
+                "x": -104.30419921875,
+                "y": 40.31982421875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1975635011
+            },
+            "geometry": {
+                "x": -104.43603515625,
+                "y": 40.36376953125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 773690565
+            },
+            "geometry": {
+                "x": -105.71044921875,
+                "y": 40.23193359375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1089609562
+            },
+            "geometry": {
+                "x": -106.06201171875,
+                "y": 40.40771484375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1407975013
+            },
+            "geometry": {
+                "x": -105.84228515625,
+                "y": 40.14404296875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1355217929
+            },
+            "geometry": {
+                "x": -106.63330078125,
+                "y": 40.45166015625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1164071533
+            },
+            "geometry": {
+                "x": -106.63330078125,
+                "y": 40.31982421875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1203007428
+            },
+            "geometry": {
+                "x": -107.38037109375,
+                "y": 41.72607421875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1171726034
+            },
+            "geometry": {
+                "x": -107.68798828125,
+                "y": 41.81396484375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 551188759
+            },
+            "geometry": {
+                "x": -107.90771484375,
+                "y": 40.89111328125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 421592818
+            },
+            "geometry": {
+                "x": -108.47900390625,
+                "y": 41.15478515625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1428406734
+            },
+            "geometry": {
+                "x": -109.13818359375,
+                "y": 41.19873046875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 971035254
+            },
+            "geometry": {
+                "x": -109.18212890625,
+                "y": 41.19873046875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1819933549
+            },
+            "geometry": {
+                "x": -107.77587890625,
+                "y": 40.49560546875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 153786619
+            },
+            "geometry": {
+                "x": -107.29248046875,
+                "y": 40.05615234375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 680367341
+            },
+            "geometry": {
+                "x": -108.12744140625,
+                "y": 40.05615234375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1500103178
+            },
+            "geometry": {
+                "x": -108.56689453125,
+                "y": 40.62744140625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 655089979
+            },
+            "geometry": {
+                "x": -108.69873046875,
+                "y": 40.53955078125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 606216105
+            },
+            "geometry": {
+                "x": -108.78662109375,
+                "y": 40.58349609375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1857894035
+            },
+            "geometry": {
+                "x": -109.13818359375,
+                "y": 40.75927734375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1628681423
+            },
+            "geometry": {
+                "x": -109.31396484375,
+                "y": 40.53955078125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1580599209
+            },
+            "geometry": {
+                "x": -109.48974609375,
+                "y": 40.53955078125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2037705999
+            },
+            "geometry": {
+                "x": -109.31396484375,
+                "y": 40.10009765625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1304548965
+            },
+            "geometry": {
+                "x": -109.66552734375,
+                "y": 40.27587890625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 839914199
+            },
+            "geometry": {
+                "x": -108.74267578125,
+                "y": 40.05615234375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 441835205
+            },
+            "geometry": {
+                "x": -110.32470703125,
+                "y": 41.81396484375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 192418933
+            },
+            "geometry": {
+                "x": -110.14892578125,
+                "y": 41.59423828125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1361870696
+            },
+            "geometry": {
+                "x": -110.50048828125,
+                "y": 41.55029296875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 34773649
+            },
+            "geometry": {
+                "x": -110.72021484375,
+                "y": 41.50634765625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2083430442
+            },
+            "geometry": {
+                "x": -112.47802734375,
+                "y": 41.59423828125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 435494217
+            },
+            "geometry": {
+                "x": -111.24755859375,
+                "y": 41.28662109375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1467649125
+            },
+            "geometry": {
+                "x": -111.68701171875,
+                "y": 41.24267578125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1019968126
+            },
+            "geometry": {
+                "x": -111.46728515625,
+                "y": 40.84716796875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 114893653
+            },
+            "geometry": {
+                "x": -112.03857421875,
+                "y": 40.84716796875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1710252362
+            },
+            "geometry": {
+                "x": -112.30224609375,
+                "y": 40.80322265625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2132579698
+            },
+            "geometry": {
+                "x": -110.01708984375,
+                "y": 40.49560546875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 600616651
+            },
+            "geometry": {
+                "x": -111.42333984375,
+                "y": 40.40771484375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1559591305
+            },
+            "geometry": {
+                "x": -111.68701171875,
+                "y": 40.18798828125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 860705761
+            },
+            "geometry": {
+                "x": -111.86279296875,
+                "y": 40.45166015625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 928775033
+            },
+            "geometry": {
+                "x": -111.33544921875,
+                "y": 40.05615234375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 372898894
+            },
+            "geometry": {
+                "x": -111.59912109375,
+                "y": 40.05615234375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1696663506
+            },
+            "geometry": {
+                "x": -113.00537109375,
+                "y": 41.68212890625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 413364360
+            },
+            "geometry": {
+                "x": -113.79638671875,
+                "y": 41.02294921875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1696767790
+            },
+            "geometry": {
+                "x": -113.84033203125,
+                "y": 41.02294921875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1863713875
+            },
+            "geometry": {
+                "x": -114.45556640625,
+                "y": 41.98974609375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 812665252
+            },
+            "geometry": {
+                "x": -114.36767578125,
+                "y": 41.68212890625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 745703114
+            },
+            "geometry": {
+                "x": -113.92822265625,
+                "y": 40.80322265625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 461278066
+            },
+            "geometry": {
+                "x": -114.80712890625,
+                "y": 41.24267578125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1206390672
+            },
+            "geometry": {
+                "x": -114.67529296875,
+                "y": 41.06689453125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 282262588
+            },
+            "geometry": {
+                "x": -113.18115234375,
+                "y": 40.31982421875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1593806769
+            },
+            "geometry": {
+                "x": -113.31298828125,
+                "y": 40.58349609375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 599122363
+            },
+            "geometry": {
+                "x": -113.75244140625,
+                "y": 40.49560546875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1165544234
+            },
+            "geometry": {
+                "x": -113.22509765625,
+                "y": 40.40771484375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1315644586
+            },
+            "geometry": {
+                "x": -113.92822265625,
+                "y": 40.49560546875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1022960467
+            },
+            "geometry": {
+                "x": -114.06005859375,
+                "y": 40.27587890625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 434888951
+            },
+            "geometry": {
+                "x": -114.41162109375,
+                "y": 40.31982421875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1044311005
+            },
+            "geometry": {
+                "x": -115.07080078125,
+                "y": 40.75927734375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1294619830
+            },
+            "geometry": {
+                "x": -115.68603515625,
+                "y": 41.85791015625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1050046358
+            },
+            "geometry": {
+                "x": -115.68603515625,
+                "y": 41.37451171875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1708210657
+            },
+            "geometry": {
+                "x": -115.86181640625,
+                "y": 41.28662109375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 124419541
+            },
+            "geometry": {
+                "x": -116.12548828125,
+                "y": 40.93505859375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 329389164
+            },
+            "geometry": {
+                "x": -116.56494140625,
+                "y": 41.06689453125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1703532506
+            },
+            "geometry": {
+                "x": -118.01513671875,
+                "y": 41.81396484375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 321253788
+            },
+            "geometry": {
+                "x": -117.39990234375,
+                "y": 40.97900390625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1635240335
+            },
+            "geometry": {
+                "x": -117.70751953125,
+                "y": 41.24267578125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1734106558
+            },
+            "geometry": {
+                "x": -117.97119140625,
+                "y": 41.46240234375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 36024289
+            },
+            "geometry": {
+                "x": -118.05908203125,
+                "y": 40.84716796875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1773165588
+            },
+            "geometry": {
+                "x": -115.90576171875,
+                "y": 40.53955078125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 486524794
+            },
+            "geometry": {
+                "x": -115.33447265625,
+                "y": 40.10009765625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1205776736
+            },
+            "geometry": {
+                "x": -115.94970703125,
+                "y": 40.18798828125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1274674451
+            },
+            "geometry": {
+                "x": -116.21337890625,
+                "y": 40.71533203125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1183142003
+            },
+            "geometry": {
+                "x": -116.91650390625,
+                "y": 40.75927734375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1103114298
+            },
+            "geometry": {
+                "x": -117.79541015625,
+                "y": 40.14404296875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1262198502
+            },
+            "geometry": {
+                "x": -118.14697265625,
+                "y": 41.33056640625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1042229250
+            },
+            "geometry": {
+                "x": -118.76220703125,
+                "y": 41.33056640625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 139619274
+            },
+            "geometry": {
+                "x": -118.45458984375,
+                "y": 40.97900390625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2061544237
+            },
+            "geometry": {
+                "x": -119.06982421875,
+                "y": 41.11083984375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 596589760
+            },
+            "geometry": {
+                "x": -119.11376953125,
+                "y": 41.11083984375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1394267476
+            },
+            "geometry": {
+                "x": -119.77294921875,
+                "y": 41.68212890625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 227518540
+            },
+            "geometry": {
+                "x": -119.90478515625,
+                "y": 41.37451171875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1890903755
+            },
+            "geometry": {
+                "x": -120.08056640625,
+                "y": 40.84716796875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 527014128
+            },
+            "geometry": {
+                "x": -120.52001953125,
+                "y": 40.97900390625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2114134854
+            },
+            "geometry": {
+                "x": -120.38818359375,
+                "y": 40.89111328125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 838650258
+            },
+            "geometry": {
+                "x": -118.32275390625,
+                "y": 40.75927734375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1903635204
+            },
+            "geometry": {
+                "x": -119.11376953125,
+                "y": 40.75927734375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1282713382
+            },
+            "geometry": {
+                "x": -118.89404296875,
+                "y": 40.45166015625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 280359039
+            },
+            "geometry": {
+                "x": -120.12451171875,
+                "y": 40.05615234375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 50668470
+            },
+            "geometry": {
+                "x": -121.31103515625,
+                "y": 41.59423828125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2130656855
+            },
+            "geometry": {
+                "x": -121.44287109375,
+                "y": 41.15478515625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 863071931
+            },
+            "geometry": {
+                "x": -122.01416015625,
+                "y": 41.46240234375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 722041880
+            },
+            "geometry": {
+                "x": -122.32177734375,
+                "y": 41.19873046875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 227021865
+            },
+            "geometry": {
+                "x": -122.80517578125,
+                "y": 41.55029296875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 389269265
+            },
+            "geometry": {
+                "x": -122.62939453125,
+                "y": 41.19873046875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1404251668
+            },
+            "geometry": {
+                "x": -122.84912109375,
+                "y": 41.33056640625
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2092523272
+            },
+            "geometry": {
+                "x": -122.80517578125,
+                "y": 41.02294921875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 774378311
+            },
+            "geometry": {
+                "x": -122.89306640625,
+                "y": 40.93505859375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1247570318
+            },
+            "geometry": {
+                "x": -121.53076171875,
+                "y": 40.53955078125
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 774983673
+            },
+            "geometry": {
+                "x": -121.57470703125,
+                "y": 40.49560546875
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 1974856714
+            },
+            "geometry": {
+                "x": -121.09130859375,
+                "y": 40.23193359375
+            }
+        },
+        {
+            "attributes": {
+                "count": 31,
+                "LTEPccRsrp": "1",
+                "OBJECTID": 2013033853
+            },
+            "geometry": {
+                "x": -121.26708984375,
+                "y": 40.01220703125
+            }
+        }
+    ],
+    "exceededTransferLimit": false,
+    "geometryType": "esriGeometryPoint"
+}
